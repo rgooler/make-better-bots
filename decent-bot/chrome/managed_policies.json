@@ -1,0 +1,10 @@
+{
+  "HomepageLocation": "https://www.google.com",
+  "HomepageIsNewTabPage": false,
+  "DefaultBrowserSettingEnabled": true,
+  "RestoreOnStartup": 0,
+  "SafeBrowsingProtectionLevel": 1,
+  "MaxConnectionsPerProxy": 99,
+  "ExtensionInstallForcelist": [  ],
+  "ManagedBookmarks": []
+}
